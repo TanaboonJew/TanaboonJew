@@ -3,7 +3,7 @@
 
 - 💡 I’m currently learning **CS50's courses on edx**
 
-- ⌛ I'm also planning to learn **Swift, Rust, Web Dev,**
+- ⌛ I'm also planning to learn **Swift, Rust, Web Dev and more**
 
 - 📫 How to reach me **tanaboon.jew@gmail.com**
 
