@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanaboon.jew@gmail.com**
 
-- 📄 Know about my experiences and projects at [tanaboonjew.github.io](tanaboonjew.github.io)
+- 📄 Know about my experiences and projects at [tanaboonjew.github.io](https://tanaboonjew.github.io)
 
 - ⚡ Fun fact **I think I'm a great google user.**
 
