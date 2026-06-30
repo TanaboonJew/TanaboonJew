@@ -1,18 +1,19 @@
 # Tanaboon Jewriyavetch
 
-Junior Software Developer at **Western Digital** (Thailand) and an engineering graduate from **Thammasat University**. I build Linux-based systems software in Python and shell, and when I'm not shipping the system itself, I'm orchestrating AI agents to help build it.
+Junior Software Developer at **Western Digital** (Thailand) and a **Thammasat University** engineering graduate. My job is building an operating system: a custom Linux distribution, assembled from the root filesystem and the kernel up through the installer and the final ISO. On top of that, I push how far AI agents can take the build.
 
-*Systems engineer by assignment, OS tinkerer by curiosity, agentic-workflow nerd by choice.*
+*Operating systems are the work, not the hobby. I build the Linux distribution itself, not just software that runs on it.*
 
 ### What I work on
 
-- **OS & Linux distribution engineering.** Building and shipping a custom Ubuntu-based distribution end to end: image/ISO pipelines, chroot build tasks, Debian packaging, installers, userspace configuration, and desktop integration.
-- **Python tooling & desktop apps.** Python services and CLIs with Vue.js front-ends, plus the automation and build glue that holds it all together.
-- **Agentic AI development.** Running coding agents (Devin desktop + CLI) across the whole loop (plan, implement, validate, ship), and packaging the repeatable parts into reusable skills and pipelines.
+- **Building a Linux distribution.** A custom Ubuntu-based OS end to end: bootstrapping the root filesystem, installing and configuring the kernel, Debian packaging, core system packages, filesystem patches, and default system customization.
+- **Installer and image pipeline.** The Ubiquity graphical installer, chroot build stages, and ISO packaging, all driven by a reproducible Docker plus Jenkins build.
+- **Userspace and bundled tooling.** System configuration plus the Python and shell tooling that ships inside the OS.
+- **Agentic AI development.** Orchestrating coding agents (Devin desktop and CLI) to plan, implement, validate, and ship, then packaging the repeatable parts into reusable skills and pipelines.
 
 ### Currently going deeper on
 
-The OS itself: userspace, installers, system configuration, and reliability tooling that keeps a running system honest.
+Going deeper across the stack: kernel and userspace, the installer, system configuration, and reliability tooling that keeps a running system honest.
 
 ### Tech I reach for
 
