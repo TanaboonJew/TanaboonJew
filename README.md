@@ -1,14 +1,14 @@
 # Tanaboon Jewriyavetch
 
-Junior Software Developer at **Western Digital** (Thailand) and an engineering graduate from **Thammasat University**. I build Linux-based systems software in Python and shell — and when I'm not shipping the system itself, I'm orchestrating AI agents to help build it.
+Junior Software Developer at **Western Digital** (Thailand) and an engineering graduate from **Thammasat University**. I build Linux-based systems software in Python and shell, and when I'm not shipping the system itself, I'm orchestrating AI agents to help build it.
 
 *Systems engineer by assignment, OS tinkerer by curiosity, agentic-workflow nerd by choice.*
 
 ### What I work on
 
-- **OS & Linux distribution engineering** — building and shipping a custom Ubuntu-based distribution end to end: image/ISO pipelines, chroot build tasks, Debian packaging, installers, userspace configuration, and desktop integration.
-- **Python tooling & desktop apps** — Python services and CLIs with Vue.js front-ends, plus the automation and build glue that holds it all together.
-- **Agentic AI development** — running coding agents (Devin desktop + CLI) across the whole loop — plan, implement, validate, ship — and packaging the repeatable parts into reusable skills and pipelines.
+- **OS & Linux distribution engineering.** Building and shipping a custom Ubuntu-based distribution end to end: image/ISO pipelines, chroot build tasks, Debian packaging, installers, userspace configuration, and desktop integration.
+- **Python tooling & desktop apps.** Python services and CLIs with Vue.js front-ends, plus the automation and build glue that holds it all together.
+- **Agentic AI development.** Running coding agents (Devin desktop + CLI) across the whole loop (plan, implement, validate, ship), and packaging the repeatable parts into reusable skills and pipelines.
 
 ### Currently going deeper on
 
