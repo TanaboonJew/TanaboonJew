@@ -1,8 +1,6 @@
 # Tanaboon Jewriyavetch
 
-Junior Software Developer at **Western Digital** (Thailand) and a **Thammasat University** engineering graduate. My job is building an operating system: a custom Linux distribution, assembled from the root filesystem and the kernel up through the installer and the final ISO. On top of that, I push how far AI agents can take the build.
-
-*Operating systems are the work, not the hobby. I build the Linux distribution itself, not just software that runs on it.*
+Junior Software Developer at **Western Digital** (Thailand) and a **Thammasat University** engineering graduate. I build a custom Ubuntu-based Linux distribution from the ground up: the root filesystem, the kernel, system packages, the installer, and the final ISO. Alongside that, I lean on AI agents to automate the build itself.
 
 ### What I work on
 
