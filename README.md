@@ -4,18 +4,18 @@ Software Developer at **Western Digital** in Thailand and a **Thammasat Universi
 
 I build software. It works. That's generally the goal.
 
-I'm interested in Linux, developer tooling, automation, AI-assisted development, local AI models, and figuring out how to make software systems less annoying to work with.
+I work across systems-oriented command-line and desktop software, developer tooling, automation, testing, and debugging on Linux and Windows. Outside of work, I spend a lot of time experimenting with AI-assisted development, local models, and tools that make software easier to build and reason about.
 
-### What I'm interested in
+### What I work on
 
-* **Linux & systems.** Working close to the operating system, command-line tooling, and the less glamorous parts of software that need to reliably work.
-* **Developer tooling.** Building tools and workflows that make development faster, more repeatable, and easier to reason about.
-* **Agentic AI.** Experimenting with coding agents, multi-agent workflows, RAG, tool use, and ways to make AI useful beyond a single prompt.
-* **Personal projects.** Occasionally building things because I want them to exist, including developer tools, game mods, and other experiments.
+* **Systems & cross-platform software.** Command-line and desktop software across Linux and Windows, with a focus on reliability and maintainability.
+* **Developer tooling & automation.** Building and improving workflows that make development more repeatable, observable, and easier to review.
+* **Testing & debugging.** Root-cause investigation, regression coverage, CI verification, and automation around difficult failure paths.
+* **Personal projects.** Developer tools, game mods, finance tooling, and other experiments I build because I want them to exist.
 
 ### Currently going deeper on
 
-Rust, Linux, AI-agent workflows, RAG, and local LLMs.
+Rust, cross-platform tooling, AI-agent workflows, RAG, and local LLMs.
 
 ### Tech I reach for
 
@@ -23,27 +23,25 @@ Rust, Linux, AI-agent workflows, RAG, and local LLMs.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-**Systems & tooling**
+**Systems, CI & testing**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows11\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Workflow-2563EB?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
 
-**Current interests**
+**Personal AI interests**
 
 ![AI Agents](https://img.shields.io/badge/AI-Agents-7C3AED?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/AI-RAG-7C3AED?style=for-the-badge)
 ![Local LLMs](https://img.shields.io/badge/AI-Local%20LLMs-7C3AED?style=for-the-badge)
-
-### GitHub
-
-![Tanaboon's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanaboonJew\&show_icons=true\&hide_border=true\&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanaboonJew\&layout=compact\&hide_border=true\&theme=tokyonight)
 
 ### Let's connect
 
